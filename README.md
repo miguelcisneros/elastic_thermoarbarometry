@@ -1,8 +1,7 @@
-# elastic_thermobarometry
-Repository for elastic thermobarometry calculations. Includes files for the following programs:
+# solid_inclusion_calculator_MATLAB
+Repository for files that are used to carry out elastic thermobarometry calculations (MATLAB). The files required to run the MATLAB program are below:
 
-# solid_inclusion_calculator (MATLAB)
-    Files required to run
+    Files required to run program
         1. elastic_model
         2. elastic_model_P_foot
         3. eos
@@ -12,7 +11,6 @@ Repository for elastic thermobarometry calculations. Includes files for the foll
     Optional files
         1. instruction_manual
         2. thermodynamic_properties_referenes
- 
- # solid_inclusion_calculator (Python)
+
  
 
