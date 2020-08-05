@@ -13,7 +13,7 @@ Repository for files that are used to carry out elastic thermobarometry calculat
         2. elastic_model_P_foot.m
         3. eos.m
         4. input_inclusion_host.m (input your inclusion and hosts here)
-        5. input_entrapment_P_calculations.xls (input your inclusion pressures here)
+        5. input_inclusion_pressures.xls (input your inclusion pressures here)
         5. thermodynamic_properties.xls
    
     Optional files
