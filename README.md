@@ -1,14 +1,14 @@
 # solid_inclusion_calculator_MATLAB
 Repository for files that are used to carry out elastic thermobarometry calculations (MATLAB). The files required to run the MATLAB program are below:
 
-    Files required to run program (individual P-T calculations)
+    Files required to run program (individual entrapment P-T calculations)
         1. elastic_model.m
         2. elastic_model_P_foot.m
         3. eos.m
         4. solid_inclusion_calculator
         5. thermodynamic_properties.xls
         
-    Files required to run many entrapment pressure calculations
+    Files required to run many entrapment P-T calculations
         1. elastic_model.m
         2. elastic_model_P_foot.m
         3. eos.m
