@@ -8,7 +8,7 @@ Repository for files that are used to carry out elastic thermobarometry calculat
         4. solid_inclusion_calculator
         5. thermodynamic_properties.xls
         
-   Files required to run many entrapment pressure calculations
+    Files required to run many entrapment pressure calculations
         1. elastic_model.m
         2. elastic_model_P_foot.m
         3. eos.m
@@ -16,7 +16,6 @@ Repository for files that are used to carry out elastic thermobarometry calculat
         5. input_entrapment_P_calculations.xls (input your inclusion pressures here)
         5. thermodynamic_properties.xls
    
-        
     Optional files
         1. instruction_manual.doc
         2. thermodynamic_properties_referenes.xls
