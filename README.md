@@ -18,7 +18,7 @@ Repository for Solid Inclusion Calculator, includes files that are used to carry
    
     Optional files
         1. instruction_manual.doc
-        2. thermodynamic_properties_referenes.xls
+        2. thermodynamic_properties_references.xls
 
  
 
